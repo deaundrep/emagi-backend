@@ -1,4 +1,4 @@
-// const randomElement = require('./emagi-random.js');
+const randomElement = require('./emagi-random.js');
 
 
 describe('randomElement', () => {
